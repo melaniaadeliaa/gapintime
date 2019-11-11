@@ -72,16 +72,6 @@ justify-content: center;
 
 }
 
-.text1{
-font-family: Rozha One;
-font-style: normal;
-font-weight: normal;
-font-size: 30px;
-line-height: 43px;
-text-decoration: none;
-
-color: #000000;
-}
 
 .text2{
 
@@ -96,18 +86,8 @@ color: #000000;
 
 }
 
-.text3{
+a:hover{ color: #FD9036; }
 
-font-family: Rozha One;
-font-style: normal;
-font-weight: normal;
-font-size: 30px;
-line-height: 43px;
-text-decoration: none;
-
-color: #000000;
-
-}
 .maintext{
   font-family: Arial;
   font-style: normal;

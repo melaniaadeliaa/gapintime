@@ -69,15 +69,6 @@ body {
   justify-content: center;
 }
 
-.text1 {
-  font-family: Rozha One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 43px;
-  text-decoration: none;
-  color: #000000;
-}
 
 .text2 {
   font-family: Rozha One;
@@ -89,16 +80,7 @@ body {
   color: #000000;
 }
 
-.text3 {
-  font-family: Rozha One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 43px;
-  text-decoration: none;
-  color: #000000;
-}
-
+a:hover{ color: #FD9036; }
 .maintext {
   font-family: Arial;
   font-style: normal;
@@ -151,4 +133,15 @@ footer {
   margin: auto;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+
+.hyperlink1 {
+  text-decoration: none;
+  color: #F62CDF;
+}
+
+@media only screen and (min-device-width: 400px) {
+  .content_images { width: 70%;
+  }
 }
